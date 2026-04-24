@@ -116,9 +116,9 @@ Isso evita que o teste falhe prematuramente e permite validar o comportamento co
 
 Os testes comprovam que:
 
-O comportamento esperado pelo negócio está implementado
-O sistema responde corretamente tanto em sucesso quanto em erro
-A comunicação entre requisitos e código está alinhada
+ - O comportamento esperado pelo negócio está implementado
+ - O sistema responde corretamente tanto em sucesso quanto em erro
+ - A comunicação entre requisitos e código está alinhada
 
 # Autor
 
